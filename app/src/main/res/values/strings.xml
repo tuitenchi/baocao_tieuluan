@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Translate Language Text</string>
+    <string name="detecting" translatable="false">Detecting...</string>
+    <string name="source_text" translatable="false">Source Text</string>
+    <string name="translate" translatable="false">Translate</string>
+    <string name="english" translatable="false">English</string>
+    <string name="todo" />
+    <string name="micro" translatable="false">micro</string>
+    <string name="translatedtext">Translated Text</string>
+    <string-array name="spinnerLang">
+        <item>English</item>
+        <item>VietNam</item>
+        <item>China</item>
+        <item>Korea</item>
+        <item>France</item>
+    </string-array>
+</resources>

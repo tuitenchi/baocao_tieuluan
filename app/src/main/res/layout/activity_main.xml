@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/sourceLang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="24dp"
+        android:text="Detecting..."
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/sourceText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:autofillHints=""
+        android:gravity="top"
+        android:hint="Source Text"
+        android:inputType=""
+        android:minHeight="100dp" />
+
+    <Button
+        android:id="@+id/translate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="translate" />
+    <Button
+        android:id="@+id/micro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="micro" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="20sp"
+        android:text="English"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/TranslatedText"
+        android:layout_width="wrap_content"
+        android:layout_height="4dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="20sp"
+        android:text=""
+        android:textSize="16sp" />
+
+
+</LinearLayout>

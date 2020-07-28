@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "628964948015",
+    "firebase_url": "https://my-application-7b472.firebaseio.com",
+    "project_id": "my-application-7b472",
+    "storage_bucket": "my-application-7b472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628964948015:android:03989b59d8ab5fcc33aeda",
+        "android_client_info": {
+          "package_name": "thienchi.dmt.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628964948015-reqmq58dm7t8pjc0c7kud7rjkkcckov7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW7I-iqCb02JVlcLC0FpVC57GDHDaCJSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628964948015-reqmq58dm7t8pjc0c7kud7rjkkcckov7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

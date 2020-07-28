@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Translate Language Text</string>
+    <string name="todo">TODO</string>
+    <string name="translatedtext">Translated Text</string>
+    <string-array name="spinnerLang">
+        <item>English</item>
+        <item>VietNam</item>
+        <item>China</item>
+        <item>Korea</item>
+        <item>France</item>
+    </string-array>
+</resources>
